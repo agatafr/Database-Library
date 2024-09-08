@@ -1,0 +1,17 @@
+DROP TABLE ProxyBorrower;
+DROP TABLE Containing;
+DROP TABLE Created;
+DROP TABLE Written;
+DROP TABLE Debt;
+DROP TABLE Reservation;
+DROP TABLE Rental;
+DROP TABLE Employees;
+DROP TABLE Copies;
+DROP TABLE Shelf;
+DROP TABLE Creation;
+DROP TABLE Book;
+DROP TABLE Borrower;
+DROP TABLE Authors;
+DROP TABLE Proxy;
+DROP TABLE Publisher;
+DROP TABLE Writings;
